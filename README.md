@@ -3,8 +3,8 @@ Data and R code for “Colonic enterotype-like clusters are associated with dist
 
 ## Contents
 
-- `data/`: datasets used in the analyses
-- `R/`: R scripts for clustering, diversity analysis, ANCOM-BC2, statistical analyses, and figure generation
+- `Raw data/`: datasets used in the analyses
+- `R code/`: R scripts for clustering, diversity analysis, ANCOM-BC2, statistical analyses, and figure generation
 
 ## Raw sequencing data
 
